@@ -1,5 +1,5 @@
 <?php
-set_include_path('C:\xampp\htdocs\WEB-PHP');
+include ("haloo.php");
 echo "apap";
  $stefan = new person();
  $jimmy = new person;
